@@ -1,3 +1,4 @@
 # QuantumHunt-task
-Go to first which is used to login by facebook.
-Go to second which is used to login by Gmail.
+There are two button for login.
+Go to first button which is used to login by facebook.
+Go to second button which is used to login by Gmail.
